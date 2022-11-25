@@ -34,8 +34,8 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 
 ### Links
 
-- Solution URL: (https://madartistphoto.github.io/FM-Challenge-1/))
-- Live Site URL (as for now): (http://madartistphoto.byethost33.com/Challenge-1/challenge1.html)
+- Solution URL: [(https://madartistphoto.github.io/FM-Challenge-1/))]
+- Live Site URL (as for now): [(http://madartistphoto.byethost33.com/Challenge-1/challenge1.html)]
 
 ## My process
 

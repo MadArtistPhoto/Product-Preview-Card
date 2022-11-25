@@ -26,7 +26,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 
-I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It shows Landscape orientation in both Landscape and Portrait orientation on the ipad. I shows fine in Portrait orientation on the phone, but displays in Portrait even when the phone is in Landscape orientation. Gotta work on that.
+I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It shows Landscape orientation in both Landscape and Portrait orientation on the ipad. It shows fine in Portrait orientation on the phone, but displays in Portrait even when the phone is in Landscape orientation. Gotta work on that.
 
 ### Screenshot
 

@@ -51,12 +51,12 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 Okay, This is the first time I tried this. I learned...
 
 - That I have a lot more to learn *
-- Chasing down typing, punctuation, coding errore is a challenge
+- Chasing down typing, punctuation, coding errors is a challenge
 - Using vw and vh for responsive measurements
 - How to include Google Fonts
 - How to really mess it up and start over from scratch
 - Learned about VSCode, though I have only scratched the surface of its power.
-- Learned about Git, GitHub, and GitHub Pages. Noe have a basic understanding of them. But need to use some reference material (ie:websites, videos) often
+- Learned about Git, GitHub, and GitHub Pages. Now have a basic understanding of them. But need to use some reference material (ie:websites, videos) often
 - Learned about about Markdown and README pages. I'm not much of a journal keeper, but I can see how doing this can be a good way to track my progress and direction
 
 ### Continued development

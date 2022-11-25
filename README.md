@@ -20,11 +20,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### The challenge
-+---------------------------------------------------------------------+
-|  Users should be able to:                                           |
-|  - View the optimal layout depending on their device's screen size  |
-|  - See hover and focus states for interactive elements              |
-+---------------------------------------------------------------------+
+
+Users should be able to:  
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
 
 I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It shows Landscape orientation in both Landscape and Portrait orientation on the ipad. I shows fine in Portrait orientation on the phone, but displays in Portrait even when the phone is in Landscape orientation. Gotta work on that.
 

@@ -35,7 +35,6 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 ### Links
 
 - Solution URL: [(https://madartistphoto.github.io/FM-Challenge-1/))]
-- Live Site URL (as for now): [(http://madartistphoto.byethost33.com/Challenge-1/challenge1.html)]
 
 ## My process
 
@@ -43,8 +42,6 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 
 - VSCode
 - a bit of Notepad++
-- Paint.net to figure out some layout sizes.
-- PikPik for geting some of the colors from the design guides
 
 ### What I learned
 
@@ -62,25 +59,5 @@ Okay, This is the first time I tried this. I learned...
 ### Continued development
 
 - See the first comment above *
-- Need to figure out the different screen size changes and how to implement them to fit different screens better
-- Need to learn more about responsive sizing for pages, items, fonts
-- Need to learn more about Git, GitHub, and GitHub Pages. Just using them in future projects will help.
-- Am working on creating a Landing Page to display my work. It's currently hosted on Byethost, but will most likely be moving everything to GitHub Pages as I learn.
 
-### Useful resources
 
-Found a couple good resources for learning the basics of Git, GitHub, and GitHub Page
-
-- Using Git and GitHub within VSCode: https://www.youtube.com/@Code
-- Beginners guide to Git and GitHub: https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
-
-## Author
-
-- Website (It ain't much, but you gotta start somewhere) - (http://madartistphoto.byethost33.com)
-
-## Acknowledgments
-
-Watching a lot of videos:
-- Linked in Learning with Lynda (through my local library)
-- Kevin Powell for a lot of CSS
-- And too many others to mention here. (I will start compiling some of my favorites.)

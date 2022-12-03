@@ -34,7 +34,7 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 
 ### Links
 
-- Solution URL: [(https://madartistphoto.github.io/FM-Challenge-1/))]
+- Solution URL: [https://madartistphoto.github.io/FM-Challenge-1/]
 
 ## My process
 

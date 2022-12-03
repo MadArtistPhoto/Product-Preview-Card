@@ -59,5 +59,27 @@ Okay, This is the first time I tried this. I learned...
 ### Continued development
 
 - See the first comment above *
+- Need to figure out the different screen size changes and how to implement them to fit different screens better
+- Need to learn more about responsive sizing for pages, items, fonts
+- Need to learn more about Git, GitHub, and GitHub Pages. Just using them in future projects will help.
+- Am working on creating a Landing Page to display my work.
+
+### Useful resources
+
+Found a couple good resources for learning the basics of Git, GitHub, and GitHub Page
+
+- Using Git and GitHub within VSCode: https://www.youtube.com/@Code
+- Beginners guide to Git and GitHub: https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+
+## Author
+
+- Website (coming soon)
+
+## Acknowledgments
+
+Watching a lot of videos:
+- Linked in Learning with Lynda (through my local library)
+- Kevin Powell for a lot of CSS
+- And too many others to mention here. (I will start compiling some of my favorites.)
 
 

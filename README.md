@@ -34,7 +34,8 @@ I have a Desktop, ipad, and cellphone. It shows on the desktop screen nicely. It
 
 ### Links
 
-- Solution URL: [https://madartistphoto.github.io/Product-Preview-Card/]
+- Solution URL: [Solution](https://madartistphoto.github.io/Product-Preview-Card/)
+- Live Site URL: [Live Site](https://madartistphoto.github.io/Product-Preview-Card/)
 
 ## My process
 
